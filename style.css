@@ -1,0 +1,23 @@
+video{
+   width: 50%;
+  height: 50%;
+  margin: auto;
+  border-radius:20px;
+}
+
+html, body {
+  height: 100%;
+}
+body {
+  background-color:dimgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1{
+   text-align: center;
+   color:lightgreen;
+
+}
